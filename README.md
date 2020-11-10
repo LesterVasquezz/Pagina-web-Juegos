@@ -1,9 +1,9 @@
 # Pagina-web-Juegos
 
 ## Contenido
-La pagina contiene un login y un catalogo de juegos, ademas, añade funciones de busqueda y comentarios
-
-Proyecto desarrollado en 2016 durante el curso de html en el CBTis 91 
+* La pagina contiene un login y un catalogo de juegos, ademas, añade funciones de busqueda y comentarios
+* Cuenta con una base de datos desarrollada en MySql
+* Proyecto desarrollado en 2016 durante el curso de html en el CBTis 91 
 
 ## Desarrollo
 * HTML
