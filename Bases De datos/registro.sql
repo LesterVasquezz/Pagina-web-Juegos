@@ -39,7 +39,7 @@ SET character_set_client = @saved_cs_client;
 
 LOCK TABLES `comentarios` WRITE;
 /*!40000 ALTER TABLE `comentarios` DISABLE KEYS */;
-INSERT INTO `comentarios` VALUES (1,'Lester','chivas_lester@hotmail.com','fgfgfg');
+INSERT INTO `comentarios` VALUES (1,'Lester','correo@hotmail.com','fgfgfg');
 /*!40000 ALTER TABLE `comentarios` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -67,7 +67,7 @@ SET character_set_client = @saved_cs_client;
 
 LOCK TABLES `usuarios` WRITE;
 /*!40000 ALTER TABLE `usuarios` DISABLE KEYS */;
-INSERT INTO `usuarios` VALUES (15,'Lester','Vasquez Galvan','123456','chivas_lester@hotmail.com','Ixtepec');
+INSERT INTO `usuarios` VALUES (15,'Lester','Vasquez','123456','xxxx@hotmail.com','mexico');
 /*!40000 ALTER TABLE `usuarios` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
